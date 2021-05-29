@@ -1,0 +1,7 @@
+com\microservice\ashuserservice\repository\UserRepository.class
+com\microservice\ashuserservice\VO\Department.class
+com\microservice\ashuserservice\service\UserService.class
+com\microservice\ashuserservice\VO\ResponseTemplateVO.class
+com\microservice\ashuserservice\controller\UserController.class
+com\microservice\ashuserservice\AshuserserviceApplication.class
+com\microservice\ashuserservice\entity\User.class
